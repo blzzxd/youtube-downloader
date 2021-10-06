@@ -1,5 +1,6 @@
 # youtube-downloader
 Give an youtube link to your program and it will give you full mp4 video and also thumbnail
+![](https://github.com/artur-asimov/youtube-downloader/blob/main/example.jpg?raw=true)
 ## Installation
 ```bash
 git clone https://github.com/artur-asimov/youtube-downloader.git
